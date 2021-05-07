@@ -15,7 +15,7 @@ Note: The commands that start with $ are meant to be run in the command line, bu
 1. Follow this documentation and video for installing the Amplify CLI. Note: you will need an AWS account and to install Node!
 2. Install Parcel by running this command in the terminal `$ npm install -g parcel-bundler`
 3. Create the files needed for your project by running the following commands:
-3.1 Create a directory called giphlify: $ mkdir giphlify
+>> <br /> 3.1 Create a directory called giphlify: $ mkdir giphlify
 >> <br /> 3.2 Change into that directory: `$ cd giphlify`
 >> <br /> 3.3 Create a src directory: `$ mkdir src`
 >> <br /> 3.4 Create a JS file in that directory: `$ touch src/script.js`
