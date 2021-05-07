@@ -162,7 +162,8 @@ Now, the first feature we need to implement is a create form to add new gifs. Le
       <h2>Create a New Gif</h2>
       + <label for="altText">Alt Text</label> +
       <input type="text" name="altText" id="altText" /> +
-      <label for="url">URL</label> + <input type="text" name="url" id="url" /> +
+      <label for="url">URL</label> 
+      + <input type="text" name="url" id="url" /> +
       <input type="submit" value="Create" /> +
     </form>
     <script src="./src/script.js"></script>
