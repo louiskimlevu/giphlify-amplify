@@ -23,12 +23,12 @@ Note: The commands that start with $ are meant to be run in the command line, bu
 >> <br /> 3.6 Create HTML and CSS files: `$ touch index.html css/style.css`
 >> <br /> 3.7 Create a Babel config file: `$ touch .babelrc`
 4. Initialize your project:
-   4.1 Setup a npm project (the --y will accept the default configuration!): `$ npm init --y`
-   4.2 Initialize a git project: `$ git init`
-   4.3 Install AWS Amplify: `$ npm i aws-amplify`
-   4.4 Install Babel: `$ npm i --save-dev babel-core`
-   4.5 Install Parcel locally (this is for when we deploy our app): `$ npm i --save-dev parcel-bundler`
-   4.6 Setup your Babel config: In your **.babelrc** file, copy and paste the following
+   >> <br /> 4.1 Setup a npm project (the --y will accept the default configuration!): `$ npm init --y`
+   >> <br /> 4.2 Initialize a git project: `$ git init`
+   >> <br /> 4.3 Install AWS Amplify: `$ npm i aws-amplify`
+   >> <br /> 4.4 Install Babel: `$ npm i --save-dev babel-core`
+   >> <br /> 4.5 Install Parcel locally (this is for when we deploy our app): `$ npm i --save-dev parcel-bundler`
+   >> <br /> 4.6 Setup your Babel config: In your **.babelrc** file, copy and paste the following
    ```
       {
         "presets": [
@@ -40,7 +40,7 @@ Note: The commands that start with $ are meant to be run in the command line, bu
         ]
       }
    ```
-   4.7 In your package.json file that was created in the npm init step, update your scripts object to contain two more items, start and build:
+   >> <br /> 4.7 In your package.json file that was created in the npm init step, update your scripts object to contain two more items, start and build:
    ```javascript
     "scripts": {
        "test": "echo \"Error: no test specified\" && exit 1",
