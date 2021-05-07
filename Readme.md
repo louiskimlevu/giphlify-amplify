@@ -17,7 +17,7 @@ Note: The commands that start with $ are meant to be run in the command line, bu
 3. Create the files needed for your project by running the following commands:
 3.1 Create a directory called giphlify: $ mkdir giphlify
 >> 3.2 Change into that directory: `$ cd giphlify`
-   3.3 Create a src directory: `$ mkdir src`
+>> 3.3 Create a src directory: `$ mkdir src`
    3.4 Create a JS file in that directory: `$ touch src/script.js`
    3.5 Create a css folder: `$ mkdir css`
    3.6 Create HTML and CSS files: `$ touch index.html css/style.css`
