@@ -8,9 +8,9 @@ In this tutorial, we're going to build a Gif display app where a user can view g
 
 ## Setup
 
-We are going to setup our files, install the necessary software, and configure babel. If you want to jump right into the code, here is a branch with these steps already done, all you'd need to do is the software installation, download the files, and then run $ npm install in the folder you downloaded.
+We are going to setup our files, install the necessary software, and configure babel. If you want to jump right into the code, here is a branch with these steps already done, all you'd need to do is the software installation, download the files, and then run `$ npm install` in the folder you downloaded.
 
-Note: The commands that start with $ are meant to be run in the command line, but omit the $ when you copy the command!
+Note: The commands that start with `$` are meant to be run in the command line, but omit the `$` when you copy the command!
 
 1. Follow this documentation and video for installing the Amplify CLI. Note: you will need an AWS account and to install Node!
 2. Install Parcel by running this command in the terminal `$ npm install -g parcel-bundler`
