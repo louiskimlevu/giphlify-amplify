@@ -73,7 +73,7 @@ Now you have an AWS Amplify project and we can access it: `$ amplify console`
 
 We also want to add an API to the project so that we can store our data in a database and utilize it. APIs allow us to interact with and manipulate our data. Four common actions are create, read, update, and delete, which are often referred to as the CRUD actions. We will integrate all four into our application!
 
-You can initialize an API by running the command $ amplify add api. Similar to when we initialized AWS Amplify, it will ask a couple questions in order to build the best possible API for you! Here's how to answer them for our Giphlify app:
+You can initialize an API by running the command `$ amplify add api`. Similar to when we initialized AWS Amplify, it will ask a couple questions in order to build the best possible API for you! Here's how to answer them for our Giphlify app:
 
 - Please select from one of the below mentioned services: Select GraphQL.
 - Provide API name: Use the default provided, giphlify.
